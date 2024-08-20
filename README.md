@@ -19,7 +19,7 @@ The repository includes the following projects:
 ### 3. **Thomas Algorithm for Solving Tridiagonal Systems**
    - **Description**: The Thomas algorithm is used to solve tridiagonal systems efficiently. The project demonstrates its application and evaluates the performance on large systems.
 
-[More Details]([./Thomas Algorithm/README.md])
+[More Details]([./Thomas-Algorithm/README.md])
 
 ### 4. **Spectral Radius Convergence of the SOR Method**
    - **Description**: This project explores the convergence behavior of the Successive Over-Relaxation (SOR) method. It shows how the spectral radius approaches 1 as the matrix size increases, indicating the method's diminishing efficiency for larger systems.
