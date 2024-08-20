@@ -8,26 +8,32 @@ The repository includes the following projects:
 
 ### 1. **Low-Rank Image Compression using SVD**
    - **Description**: This project uses Singular Value Decomposition (SVD) to compress images by approximating them with low-rank matrices. The method is tested with different ranks to observe the balance between image quality and data storage efficiency.
+
 [More Details](./ImageCompressionSVD/README.md)
 
 ### 2. **Power and Inverse Iteration for Eigenvalue Computation**
    - **Description**: This project implements power iteration and inverse power iteration methods to calculate the largest and smallest eigenvalues, along with their corresponding eigenvectors, for a given matrix.
+
 [More Details](./PowerAndInverseIteration/README.md)
 
 ### 3. **Thomas Algorithm for Solving Tridiagonal Systems**
    - **Description**: The Thomas algorithm is used to solve tridiagonal systems efficiently. The project demonstrates its application and evaluates the performance on large systems.
-[More Details](./ThomasAlgorithm/README.md)
+
+[More Details](./Thomas Algorithm/README.md)
 
 ### 4. **Spectral Radius Convergence of the SOR Method**
    - **Description**: This project explores the convergence behavior of the Successive Over-Relaxation (SOR) method. It shows how the spectral radius approaches 1 as the matrix size increases, indicating the method's diminishing efficiency for larger systems.
+
 [More Details](./SpectralRadiusSOR/README.md)
 
 ### 5. **QR Factorization Algorithm**
    - **Description**: The QR factorization algorithm is implemented to decompose a matrix into an orthogonal matrix \( Q \) and an upper triangular matrix \( R \). The project demonstrates the application of this technique in solving linear systems.
-[More Details](./QRFactorization/README.md)
+
+[More Details](./QR Factorization/README.md)
 
 ### 6. **Effect of an Orthogonal Matrix on an Ellipse**
    - **Description**: This project investigates how an orthogonal matrix transformation affects the shape of an ellipse in 2D space. It confirms that the transformation results in a rotated ellipse, preserving the original shape.
+
 [More Details](./EllipseTransformation/README.md)
 
 ---
