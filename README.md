@@ -29,7 +29,7 @@ The repository includes the following projects:
 ### 5. **QR Factorization Algorithm**
    - **Description**: The QR factorization algorithm is implemented to decompose a matrix into an orthogonal matrix \( Q \) and an upper triangular matrix \( R \). The project demonstrates the application of this technique in solving linear systems.
 
-[More Details](./QR Factorization/README.md)
+[More Details]([./QR-Factorization/README.md])
 
 ### 6. **Effect of an Orthogonal Matrix on an Ellipse**
    - **Description**: This project investigates how an orthogonal matrix transformation affects the shape of an ellipse in 2D space. It confirms that the transformation results in a rotated ellipse, preserving the original shape.
